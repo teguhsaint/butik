@@ -22,7 +22,9 @@ body {
   font-size: 1.2rem;
   color: #363636;
   font-weight: 600;
+  transition-duration: 0.2s;
 }
+
 
 .navmenu a:hover:not(:first-child) {
   background-color: #ff3e5e;
@@ -38,6 +40,9 @@ body {
   margin-inline: auto;
 
 }
+
+
+
 
 @media screen and (max-width: 600px) {
   .container {
