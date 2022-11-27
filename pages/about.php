@@ -11,7 +11,7 @@
 </style>
 <body>
     <h1 style="text-align:font-family: 'Lucida Handwriting', sans-serif;font: size 5rem">STYLE SHOP</h1>
-    <div class="picture"><img src="picture/pic.jpg" alt=""></div>
+    <div class="picture"><img src="img/pic.jpg" alt=""></div>
     <br>
     <br>
     <h2 style="text-align:center;font-family: 'Brush Script MT',sans-serif;font:size 5rem">Our Brand</h2>
