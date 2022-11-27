@@ -198,6 +198,25 @@ body {
             <h3>Gaun d</h3>
             <p class="price">Rp.0</p>
         </div>
-
+        <div class="card grid-item">
+            <img src="img/gn5.jpg" alt="">
+            <h3>Gaun d</h3>
+            <p class="price">Rp.0</p>
+        </div>
+        <div class="card grid-item">
+            <img src="img/gn6.jpg" alt="">
+            <h3>Gaun d</h3>
+            <p class="price">Rp.0</p>
+        </div>
+        <div class="card grid-item">
+            <img src="img/gn7.jpg" alt="">
+            <h3>Gaun d</h3>
+            <p class="price">Rp.0</p>
+        </div>
+        <div class="card grid-item">
+            <img src="img/gn8.jpg" alt="">
+            <h3>Gaun d</h3>
+            <p class="price">Rp.0</p>
+        </div>
     </div>
        
