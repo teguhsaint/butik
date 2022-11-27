@@ -30,7 +30,7 @@ body {
 }
 .grid-item{
     display: block;
-        width: 70% !important;
+        width: 80% !important;
 
         aspect-ratio: 9/16;
         background-color: white;
@@ -92,42 +92,42 @@ body {
     <div class="kolom">
 
         <div class="card grid-item">
-            <img src="rr.jpg" alt="">
+            <img src="img/rr.jpg" alt="">
             <h3>Midi White Dress</h3>
             <p class="price">Rp.0</p>
         </div>
         <div class="card grid-item">
-            <img src="tt.jpg" alt="">
+            <img src="img/tt.jpg" alt="">
             <h3>Midi White Dress</h3>
             <p class="price">Rp.0</p>
         </div>
         <div class="card grid-item">
-            <img src="uu.jpg" alt="">
+            <img src="img/uu.jpg" alt="">
             <h3>Midi White Dress</h3>
             <p class="price">Rp.0</p>
         </div>
         <div class="card grid-item">
-            <img src="drs1.jpg" alt="">
+            <img src="img/drs1.jpg" alt="">
             <h3>Midi White Dress</h3>
             <p class="price">Rp.0</p>
         </div>
         <div class="card grid-item">
-            <img src="drs2.jpg" alt="">
+            <img src="img/drs2.jpg" alt="">
             <h3>Midi White Dress</h3>
             <p class="price">Rp.0</p>
         </div>
         <div class="card grid-item">
-            <img src="drs3.jpg" alt="">
+            <img src="img/drs3.jpg" alt="">
             <h3>Midi White Dress</h3>
             <p class="price">Rp.0</p>
         </div>
         <div class="card grid-item">
-            <img src="drs4.jpg" alt="">
+            <img src="img/drs4.jpg" alt="">
             <h3>Midi White Dress</h3>
             <p class="price">Rp.0</p>
         </div>
         <div class="card grid-item">
-            <img src="drs5.jpg" alt="">
+            <img src="img/drs5.jpg" alt="">
             <h3>Midi White Dress</h3>
             <p class="price">Rp.0</p>
         </div>
@@ -136,45 +136,68 @@ body {
     <h2 class="judul1">JAKET</h2>
     <div class="kolom">
         <div class="card grid-item">
-            <img src="ww.jpg" alt="">
+            <img src="img/ww.jpg" alt="">
             <h3>Jaket Milea</h3>
             <p class="price">Rp.0</p>
         </div>
         <div class="card grid-item">
-            <img src="ee.jpg" alt="">
+            <img src="img/ee.jpg" alt="">
             <h3>Jaket Parasut</h3>
             <p class="price">Rp.0</p>
         </div>
         <div class="card grid-item">
-            <img src="ll.jpg" alt="">
+            <img src="img/ll.jpg" alt="">
             <h3>Jaket hoodie</h3>
             <p class="price">Rp.0</p>
         </div>
         <div class="card grid-item">
-            <img src="zz.jpg" alt="">
+            <img src="img/zz.jpg" alt="">
             <h3>Jaket Bulu</h3>
             <p class="price">Rp.0</p>
         </div>
         <div class="card grid-item">
-            <img src="bb.jpg" alt="">
+            <img src="img/bb.jpg" alt="">
             <h3>Jaket Musim Dingin</h3>
             <p class="price">Rp.0</p>
         </div>
         <div class="card grid-item">
-            <img src="gg.jpg" alt="">
+            <img src="img/gg.jpg" alt="">
             <h3>Jaket Dilan</h3>
             <p class="price">Rp.0</p>
         </div>
         <div class="card grid-item">
-            <img src="ss.jpg" alt="">
+            <img src="img/ss.jpg" alt="">
             <h3>Jaket Baseball</h3>
             <p class="price">Rp.0</p>
         </div>
         <div class="card grid-item">
-            <img src="qq.jpg" alt="">
+            <img src="img/qq.jpg" alt="">
             <h3>Jaket Bomber</h3>
             <p class="price">Rp.0</p>
         </div>
+    </div>
     <h2 class="judul1">GAUN</h2>
     <div class="kolom">
+    <div class="card grid-item">
+            <img src="img/gn1.jpg" alt="">
+            <h3>Gaun a</h3>
+            <p class="price">Rp.0</p>
+        </div>
+        <div class="card grid-item">
+            <img src="img/gn2.jpg" alt="">
+            <h3>Gaun b</h3>
+            <p class="price">Rp.0</p>
+        </div>
+        <div class="card grid-item">
+            <img src="img/gn3.jpg" alt="">
+            <h3>Gaun c</h3>
+            <p class="price">Rp.0</p>
+        </div>
+        <div class="card grid-item">
+            <img src="img/gn4.jpg" alt="">
+            <h3>Gaun d</h3>
+            <p class="price">Rp.0</p>
+        </div>
+
+    </div>
        
