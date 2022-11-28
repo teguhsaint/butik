@@ -25,7 +25,6 @@ body {
   transition-duration: 0.2s;
 }
 
-
 .navmenu a:hover:not(:first-child) {
   background-color: #ff3e5e;
   color: white;
@@ -38,18 +37,13 @@ body {
   padding: 10px;
   width: 80%;
   margin-inline: auto;
-
 }
-
-
-
 
 @media screen and (max-width: 600px) {
   .container {
     width: 90%;
     padding: 10px;
     margin-inline: auto;
- 
   }
 
   .navmenu a:not(:first-child) {
@@ -75,4 +69,10 @@ body {
     right: 0;
     top: 0;
   }
+}
+.footers {
+  margin-top: 20px;
+  min-height: 300px;
+  width: 100%;
+  background-color: #1f1f1f;
 }

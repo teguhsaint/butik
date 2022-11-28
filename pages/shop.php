@@ -88,7 +88,7 @@ body {
         <h4>The best clothes, will take you to extraordinary places</h4>
     
     </div>
-    <h2 class="judul1">DRESS</h2>
+    <h2 class="judul1" style="font-family: 'font-family: Arial, Helvetica, sans-serif;'">DRESS</h2>
     <div class="kolom">
 
         <div class="card grid-item">
@@ -98,42 +98,41 @@ body {
         </div>
         <div class="card grid-item">
             <img src="img/tt.jpg" alt="">
-            <h3>Midi White Dress</h3>
+            <h3>Dress mini</h3>
             <p class="price">Rp.0</p>
         </div>
         <div class="card grid-item">
             <img src="img/uu.jpg" alt="">
-            <h3>Midi White Dress</h3>
+            <h3>Black Dress</h3>
             <p class="price">Rp.0</p>
         </div>
         <div class="card grid-item">
             <img src="img/drs1.jpg" alt="">
-            <h3>Midi White Dress</h3>
+            <h3>brukat Dress</h3>
             <p class="price">Rp.0</p>
         </div>
         <div class="card grid-item">
             <img src="img/drs2.jpg" alt="">
-            <h3>Midi White Dress</h3>
+            <h3>Red Dress</h3>
             <p class="price">Rp.0</p>
         </div>
         <div class="card grid-item">
             <img src="img/drs3.jpg" alt="">
-            <h3>Midi White Dress</h3>
+            <h3>Navy Dress</h3>
             <p class="price">Rp.0</p>
         </div>
         <div class="card grid-item">
             <img src="img/drs4.jpg" alt="">
-            <h3>Midi White Dress</h3>
+            <h3>Black midi Dress</h3>
             <p class="price">Rp.0</p>
         </div>
         <div class="card grid-item">
             <img src="img/drs5.jpg" alt="">
-            <h3>Midi White Dress</h3>
+            <h3>Soft Pink Dress</h3>
             <p class="price">Rp.0</p>
         </div>
     </div>
-    
-    <h2 class="judul1">JAKET</h2>
+    <h2 class="judul1" style="font-family: 'font-family: Arial, Helvetica, sans-serif;'">JAKET</h2>
     <div class="kolom">
         <div class="card grid-item">
             <img src="img/ww.jpg" alt="">
@@ -176,7 +175,7 @@ body {
             <p class="price">Rp.0</p>
         </div>
     </div>
-    <h2 class="judul1">GAUN</h2>
+    <h2 class="judul1" style="font-family: 'font-family: Arial, Helvetica, sans-serif;'">GAUN</h2>
     <div class="kolom">
     <div class="card grid-item">
             <img src="img/gn1.jpg" alt="">
@@ -198,6 +197,25 @@ body {
             <h3>Gaun d</h3>
             <p class="price">Rp.0</p>
         </div>
-
+        <div class="card grid-item">
+            <img src="img/gn5.jpg" alt="">
+            <h3>Gaun e</h3>
+            <p class="price">Rp.0</p>
+        </div>
+        <div class="card grid-item">
+            <img src="img/gn6.jpg" alt="">
+            <h3>Gaun f</h3>
+            <p class="price">Rp.0</p>
+        </div>
+        <div class="card grid-item">
+            <img src="img/gn7.jpg" alt="">
+            <h3>Gaun g</h3>
+            <p class="price">Rp.0</p>
+        </div>
+        <div class="card grid-item">
+            <img src="img/gn8.jpg" alt="">
+            <h3>Gaun h</h3>
+            <p class="price">Rp.0</p>
+        </div>
     </div>
        
