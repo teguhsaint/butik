@@ -69,7 +69,7 @@ body {
 .card img{
     width: 230px;
     max-height: 330px;
-    margin-top: 20px;
+    margin-top: 0px;
     transition-duration: 0.5s;
     margin-bottom: 20px;
 }
