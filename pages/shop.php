@@ -30,7 +30,7 @@ body {
 }
 .grid-item{
     display: block;
-        width: 80% !important;
+        width: 90% !important;
 
         aspect-ratio: 9/16;
         background-color: white;
@@ -43,7 +43,7 @@ body {
         text-align: center;
         font-family: arial;
         display: inline-block;
-        max-height: 350px;
+        max-height: 450px;
         overflow: hidden;
         margin: 0;
 }
@@ -67,8 +67,8 @@ body {
     opacity: 0.7;
 }
 .card img{
-    width: 200px;
-    max-height: 200px;
+    width: 230px;
+    max-height: 330px;
     margin-top: 20px;
     transition-duration: 0.5s;
     margin-bottom: 20px;
@@ -88,134 +88,90 @@ body {
         <h4>The best clothes, will take you to extraordinary places</h4>
     
     </div>
-    <h2 class="judul1" style="font-family: 'font-family: Arial, Helvetica, sans-serif;'">DRESS</h2>
+    <h2 class="judul1">DRESS</h2>
     <div class="kolom">
 
         <div class="card grid-item">
-            <img src="img/rr.jpg" alt="">
-            <h3>Midi White Dress</h3>
+            <img src="img/hh.jpg" alt="">
+            <h3>Volorie Dress</h3>
+            <p class="price">Rp.999.000</p>
+        </div>
+        <div class="card grid-item">
+            <img src="img/hu.jpg" alt="">
+            <h3>Elaiza Dress</h3>
             <p class="price">Rp.0</p>
         </div>
         <div class="card grid-item">
-            <img src="img/tt.jpg" alt="">
-            <h3>Dress mini</h3>
+            <img src="img/je.jpg" alt="">
+            <h3>Rosalia Dress</h3>
             <p class="price">Rp.0</p>
         </div>
         <div class="card grid-item">
-            <img src="img/uu.jpg" alt="">
-            <h3>Black Dress</h3>
+            <img src="img/ok.jpg" alt="">
+            <h3>Lydyna Dress</h3>
             <p class="price">Rp.0</p>
         </div>
         <div class="card grid-item">
-            <img src="img/drs1.jpg" alt="">
-            <h3>brukat Dress</h3>
+            <img src="img/po.jpg" alt="">
+            <h3>Jania Dress</h3>
             <p class="price">Rp.0</p>
         </div>
         <div class="card grid-item">
-            <img src="img/drs2.jpg" alt="">
-            <h3>Red Dress</h3>
+            <img src="img/re.jpg" alt="">
+            <h3>Aleesha Dress</h3>
             <p class="price">Rp.0</p>
         </div>
         <div class="card grid-item">
-            <img src="img/drs3.jpg" alt="">
-            <h3>Navy Dress</h3>
+            <img src="img/ya.jpg" alt="">
+            <h3>Felicia Dress</h3>
             <p class="price">Rp.0</p>
         </div>
         <div class="card grid-item">
-            <img src="img/drs4.jpg" alt="">
-            <h3>Black midi Dress</h3>
-            <p class="price">Rp.0</p>
-        </div>
-        <div class="card grid-item">
-            <img src="img/drs5.jpg" alt="">
-            <h3>Soft Pink Dress</h3>
+            <img src="img/yu.jpg" alt="">
+            <h3>Jeanie Dress</h3>
             <p class="price">Rp.0</p>
         </div>
     </div>
-    <h2 class="judul1" style="font-family: 'font-family: Arial, Helvetica, sans-serif;'">JAKET</h2>
+    <h2 class="judul1">Outer/Blazer</h2>
     <div class="kolom">
         <div class="card grid-item">
-            <img src="img/ww.jpg" alt="">
-            <h3>Jaket Milea</h3>
+            <img src="img/11.jpg" alt="">
+            <h3>Wyta Blazer</h3>
             <p class="price">Rp.0</p>
         </div>
         <div class="card grid-item">
-            <img src="img/ee.jpg" alt="">
-            <h3>Jaket Parasut</h3>
+            <img src="img/12.jpg" alt="">
+            <h3>Auria Shawll Blazer</h3>
             <p class="price">Rp.0</p>
         </div>
         <div class="card grid-item">
-            <img src="img/ll.jpg" alt="">
-            <h3>Jaket hoodie</h3>
+            <img src="img/13.jpg" alt="">
+            <h3>belllona Blazer</h3>
             <p class="price">Rp.0</p>
         </div>
         <div class="card grid-item">
-            <img src="img/zz.jpg" alt="">
-            <h3>Jaket Bulu</h3>
+            <img src="img/14.jpg" alt="">
+            <h3>Elyse Blazer</h3>
             <p class="price">Rp.0</p>
         </div>
         <div class="card grid-item">
-            <img src="img/bb.jpg" alt="">
-            <h3>Jaket Musim Dingin</h3>
+            <img src="img/15.jpg" alt="">
+            <h3>Trinity Blazer</h3>
             <p class="price">Rp.0</p>
         </div>
         <div class="card grid-item">
-            <img src="img/gg.jpg" alt="">
-            <h3>Jaket Dilan</h3>
+            <img src="img/16.jpg" alt="">
+            <h3>Gracia Blazer</h3>
             <p class="price">Rp.0</p>
         </div>
         <div class="card grid-item">
-            <img src="img/ss.jpg" alt="">
-            <h3>Jaket Baseball</h3>
+            <img src="img/17.jpg" alt="">
+            <h3>Lannia Blazer</h3>
             <p class="price">Rp.0</p>
         </div>
         <div class="card grid-item">
-            <img src="img/qq.jpg" alt="">
-            <h3>Jaket Bomber</h3>
+            <img src="img/18.jpg" alt="">
+            <h3>Michalis Blazer</h3>
             <p class="price">Rp.0</p>
         </div>
     </div>
-    <h2 class="judul1" style="font-family: 'font-family: Arial, Helvetica, sans-serif;'">GAUN</h2>
-    <div class="kolom">
-    <div class="card grid-item">
-            <img src="img/gn1.jpg" alt="">
-            <h3>Gaun a</h3>
-            <p class="price">Rp.0</p>
-        </div>
-        <div class="card grid-item">
-            <img src="img/gn2.jpg" alt="">
-            <h3>Gaun b</h3>
-            <p class="price">Rp.0</p>
-        </div>
-        <div class="card grid-item">
-            <img src="img/gn3.jpg" alt="">
-            <h3>Gaun c</h3>
-            <p class="price">Rp.0</p>
-        </div>
-        <div class="card grid-item">
-            <img src="img/gn4.jpg" alt="">
-            <h3>Gaun d</h3>
-            <p class="price">Rp.0</p>
-        </div>
-        <div class="card grid-item">
-            <img src="img/gn5.jpg" alt="">
-            <h3>Gaun e</h3>
-            <p class="price">Rp.0</p>
-        </div>
-        <div class="card grid-item">
-            <img src="img/gn6.jpg" alt="">
-            <h3>Gaun f</h3>
-            <p class="price">Rp.0</p>
-        </div>
-        <div class="card grid-item">
-            <img src="img/gn7.jpg" alt="">
-            <h3>Gaun g</h3>
-            <p class="price">Rp.0</p>
-        </div>
-        <div class="card grid-item">
-            <img src="img/gn8.jpg" alt="">
-            <h3>Gaun h</h3>
-            <p class="price">Rp.0</p>
-        </div>
-    </div>
-       
