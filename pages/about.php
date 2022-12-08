@@ -15,10 +15,16 @@
         justify-content: center;
 
     }
+
+    .shev {
+        text-align: center;
+        font-family: 'Lucida handwriting', sans-serif;
+        font-size: 5rem;
+    }
 </style>
 
 <body>
-    <h1 style="text-align:font-family; 'Lucida Handwriting', sans-serif;font size 5rem;">STYLE SHOP</h1>
+    <h1 class="shev">STYLE SHOP</h1>
     <div class="picture"><img src="img/pic.jpg" alt=""></div>
     <br>
     <br>
